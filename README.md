@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **avihuxp@gmail.com**
 
-- ⚡ Fun fact **python is graet, but OOP in python sucks**
+- ⚡ Fun fact **python is great, but OOP in python sucks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
